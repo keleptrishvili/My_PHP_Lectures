@@ -1,0 +1,12 @@
+.form-1 {
+    width: 500px;
+    border: solid 1px black;
+    margin: auto;
+    padding: 10px;
+
+}
+.error {
+    font-size: 3em;
+    font-weight: bold;
+    color: red;
+}
