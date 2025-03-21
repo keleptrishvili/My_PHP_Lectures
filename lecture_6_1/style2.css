@@ -1,0 +1,20 @@
+header,main {
+    width: 700px;
+    border: solid 1px black;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+main table {
+    border-collapse: collapse;
+    width: 100%;
+}
+main table th, td {
+    border: solid 1px black;
+    padding: 8px;
+
+
+}
+.error {
+    color: red;
+}
